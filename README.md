@@ -5,11 +5,11 @@ Windows Defender for endpoint protection is a crucial aspect of keeping our syst
 ![wd-1](https://github.com/rasheedjimoh/wd/assets/157264080/090c66e2-f297-497a-84e6-5d3c5ca77ed5)
 
 
-**Understanding Windows Defender for Endpoint Protection**
+## Understanding Windows Defender for Endpoint Protection
 
 Windows Defender for endpoint protection is like your digital bodyguard, constantly monitoring the front lines of your system's defenses. It is like having a dedicated security team at your fingertips, working around the clock to keep your devices safe from cybersecurity threats.
 
-**Key Features and Benefits:**
+## Key Features and Benefits:
 
 1. **Built-in Protection:** One of the best things about Windows Defender is that it is built-in with Windows operating systems. This means that you don't need to look for third-party solutions – it is already there, ready to go.
 
@@ -24,7 +24,7 @@ Windows Defender for endpoint protection is like your digital bodyguard, constan
 ![wf-0](https://github.com/rasheedjimoh/wd/assets/157264080/c3f05cce-fce0-4df1-a34b-8a619f37b712)
 
 
-**Best Practices for Windows Defender Endpoint Protection:**
+## Best Practices for Windows Defender Endpoint Protection
 
 1. **Keep it Updated:** Keep Windows Defender up to date with the latest security definitions and software updates. Microsoft regularly releases patches and updates to address new threats and vulnerabilities.
 
